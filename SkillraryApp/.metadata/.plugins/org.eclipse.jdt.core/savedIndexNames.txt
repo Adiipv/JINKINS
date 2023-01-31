@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\Dell\OneDrive\Desktop\WCAS4\SkillraryApp\.metadata\.plugins\org.eclipse.jdt.core
+875359159.index
+1828066185.index
+3321725307.index
+951299866.index
+204838433.index
+679616773.index
+1000540546.index
+1865797976.index
+1299963091.index
